@@ -89,7 +89,6 @@ function App() {
           },
         }],
         dimension: { width: 1280, height: 720 },
-        test: true,
       },
       {
         headers: {
